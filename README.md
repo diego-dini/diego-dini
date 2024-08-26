@@ -1,5 +1,16 @@
 # Diego Dini 
-#### Olá! Eu sou o Diego, um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em diversas tecnologias web e estou sempre em busca de novos desafios.
+
+### Sobre mim
+Sou alguém que está sempre pensando em algo, seja sobre trabalho, projetos pessoais ou jogos. Raramente fico sem ter o que conversar, mesmo que o assunto seja algo desconhecido para mim, pois estou sempre disposto a aprender. Entre minhas paixões, destacam-se os videogames, RPGs de mesa (onde geralmente atuo como mestre), programação e desenho.
+
+Com o hábito de estar constantemente buscando algo novo para aprender, acabo acumulando uma vasta gama de informações. Isso me leva a tentar prever o rumo de uma conversa enquanto ela ainda está acontecendo.
+
+Apesar da diversidade do meu repertório de temas, aprecio ouvir opiniões opostas ou semelhantes às minhas, pois acredito que isso promove um grande desenvolvimento pessoal. Sou uma pessoa que trabalha bem em grupo, mantenho a calma e busco analisar as situações de forma preditiva, em vez de reativa. Quando um problema surge, minha prioridade não é identificar o responsável, mas entender o "como" e o "porquê" para encontrar a causa, que considero mais importante do que atribuir culpa.
+
+### Minha Biografia
+Piracicabano, nascido no coração do interior, sempre fui fascinado por aprender e entender como as coisas funcionam. Iniciei minha carreira na área mecânica, mas minha paixão por programação sempre esteve presente. Meu primeiro projeto, e também meu primeiro contato com o desenvolvimento, foi a criação de um bot para Discord usando o framework Discord.js. Em uma noite, aprendi os fundamentos do JavaScript e do Discord.js, e naquele momento, soube que queria me tornar programador.
+
+Antes mesmo de me dedicar à programação, adquiri uma vasta experiência trabalhando em uma empresa do setor automotivo, onde tive grandes oportunidades para desenvolver diversas soft skills e compreender melhor o ambiente profissional. Agora, estou em busca da minha primeira vaga como desenvolvedor, ansioso para aplicar e expandir meus conhecimentos na área.
 
 ## Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
