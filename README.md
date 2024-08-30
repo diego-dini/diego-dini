@@ -36,4 +36,3 @@ Antes mesmo de me dedicar à programação, adquiri uma vasta experiência traba
 ## Contato
 #### Sinta-se à vontade para me contatar através do LinkedIn ou GitHub. <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-ferraz-dini-61307b17a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego-dini)
